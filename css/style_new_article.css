@@ -1,0 +1,14 @@
+@import "style.css";
+.create_artice {
+    margin-top: 40px;
+}
+form {
+    display: flex;
+    flex-direction: column;
+}
+input {
+    margin-bottom: 5px;
+}
+textarea {
+    margin-bottom: 5px;
+}

@@ -1,0 +1,14 @@
+@import "style.css";
+.articles {
+    margin-top: 40px;
+}
+.article {
+    position: relative;
+    background-color: #c7c7c7;
+    padding: 20px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+.article-link {
+    display: none;
+}
